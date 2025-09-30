@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: charybdis, layout_name: five_column_transform}
+layout: {qmk_keyboard: charybdis, layout_name: LAYOUT_5x3}
 layers:
   Base:
   - Q

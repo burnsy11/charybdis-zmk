@@ -1,0 +1,33 @@
+# QMK build artifacts
+*.hex
+*.bin
+*.uf2
+*.elf
+*.map
+*.lst
+*.eep
+*.lss
+*.sym
+
+# Build directories
+.build/
+build/
+obj_*/
+
+# QMK userspace
+qmk_firmware/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
